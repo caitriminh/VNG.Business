@@ -64,6 +64,7 @@
     <Compile Include="Entities\DTA\DM_LoaiHang.cs" />
     <Compile Include="Entities\DTA\DM_LoaiThuChi.cs" />
     <Compile Include="Entities\DTA\DM_MoTaLoi.cs" />
+    <Compile Include="Entities\DTA\DM_PhanKhu.cs" />
     <Compile Include="Entities\DTA\DM_PhanLoai.cs" />
     <Compile Include="Entities\DTA\DM_Size.cs" />
     <Compile Include="Entities\DTA\DM_ThoiGianBaoHanh.cs" />
@@ -118,6 +119,7 @@
     <Compile Include="Models\DTA\DM_LoaiHang_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_LoaiThuChi_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_MoTaLoi_ViewModel.cs" />
+    <Compile Include="Models\DTA\DM_PhanKhu_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_PhanLoai_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_Size_ViewModel.cs" />
     <Compile Include="Models\DTA\DM_ThoiGianBaoHanh_ViewModel.cs" />
