@@ -1,5 +1,8 @@
 ﻿namespace VNG.Business.Models.DTA
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class DM_PhanKhu_ViewModel
     {
         public string action { get; set; }

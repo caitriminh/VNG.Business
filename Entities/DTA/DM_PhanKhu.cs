@@ -2,6 +2,9 @@
 
 namespace VNG.Business.Entities.DTA
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class DM_PhanKhu
     {
         public int ID { get; set; }
